@@ -129,6 +129,71 @@ const products = [
     rating: 3.5,
     numReviews: 10,
   },
+  {
+    _id: '11',
+    name: 'PopSockets MagSafe Phone Grip',
+    image: '/images/phone_case2.jpg',
+    description:
+      'Our phone grip compatible with MagSafe we call a "PopGrip" securely attaches to your MagSafe-compatible case for maximum grip and kickstand capabilities',
+    brand: 'PopSockets',
+    category: 'Phones',
+    price: 26.99,
+    countInStock: 9,
+    rating: 4.5,
+    numReviews: 52,
+  },
+  {
+    _id: '12',
+    name: 'iPhone 11 Pro 256GB Memory',
+    image:'/images/phone.jpg',
+    description:
+      'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+    brand: 'Apple',
+    category: 'Phones',
+    price: 599.99,
+    countInStock: 7,
+    rating: 4.0,
+    numReviews: 8,
+  },
+  {
+    _id: '13',
+    name: 'Airpods Wireless Bluetooth Headphones',
+    image: '/images/airpods.jpg',
+    description:
+      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+    brand: 'Apple',
+    category: 'Phones',
+    price: 89.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    _id: '14',
+    name: 'Belkin Magnetic Car Vent Mount PRO with MagSafe',
+    image: '/images/phone_belking.jpg',
+    description:
+      'The Belkin Magsafe Vent Mount Pro is compatible with the Apple iPhone 14, 13, and 12 Series, and certified MagSafe Cases,This MagSafe certified phone mount for car is made of high-quality materials, securely keeping your MagSafe compatible phone in place while driving',
+    brand: 'MAGSAFE COMPATIBLE',
+    category: 'Phones',
+    price: 35.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 5,
+  },
+  {
+    _id: '15',
+    name: 'Headphones with Protective Carrying Case',
+    image: '/images/headphone1.jpg',
+    description:
+      ' Beoplay H95 includes a robust hardcase to store your headphones in plush security as you travel and experience life to the fullest. Lined with matching textile on the inside, the headphones and accompanying accessories are safely preserved while not in use.',
+    brand: 'Bang & Olufsen',
+    category: 'Headphones',
+    price: 120.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 20,
+  },
   
 ]
 
